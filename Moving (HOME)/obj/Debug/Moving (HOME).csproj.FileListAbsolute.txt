@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\bin\Debug\Moving (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\bin\Debug\Moving (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\bin\Debug\Moving (HOME).pdb
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\obj\Debug\Moving (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\obj\Debug\Moving (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\obj\Debug\Moving (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME)\obj\Debug\Moving (HOME).pdb

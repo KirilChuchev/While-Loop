@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\bin\Debug\Moving (HOME) - 1.exe.config
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\bin\Debug\Moving (HOME) - 1.exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\bin\Debug\Moving (HOME) - 1.pdb
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\obj\Debug\Moving (HOME) - 1.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\obj\Debug\Moving (HOME) - 1.exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Moving (HOME) - 1\obj\Debug\Moving (HOME) - 1.pdb
