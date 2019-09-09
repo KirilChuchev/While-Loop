@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\bin\Debug\Walking (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\bin\Debug\Walking (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\bin\Debug\Walking (HOME).pdb
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\obj\Debug\Walking (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\obj\Debug\Walking (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\obj\Debug\Walking (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Walking (HOME)\obj\Debug\Walking (HOME).pdb

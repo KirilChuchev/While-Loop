@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\bin\Debug\Sequence 2k+1 (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\bin\Debug\Sequence 2k+1 (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\bin\Debug\Sequence 2k+1 (HOME).pdb
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\obj\Debug\Sequence 2k+1 (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\obj\Debug\Sequence 2k+1 (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\obj\Debug\Sequence 2k+1 (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Sequence 2k+1 (HOME)\obj\Debug\Sequence 2k+1 (HOME).pdb

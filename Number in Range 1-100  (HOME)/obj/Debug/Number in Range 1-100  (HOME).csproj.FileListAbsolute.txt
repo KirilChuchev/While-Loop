@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\bin\Debug\Number in Range 1-100  (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\bin\Debug\Number in Range 1-100  (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\bin\Debug\Number in Range 1-100  (HOME).pdb
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\obj\Debug\Number in Range 1-100  (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\obj\Debug\Number in Range 1-100  (HOME).exe
+C:\Users\kickz_oob\source\repos\Lab 02.02\Number in Range 1-100  (HOME)\obj\Debug\Number in Range 1-100  (HOME).pdb
